@@ -21,3 +21,8 @@ config git
 git config --global user.email "your_email@example.com"
 git config --global credential.helper cache
 git config --global core.fsmonitor true
+
+
+git pull
+
+git pull -u origin main
